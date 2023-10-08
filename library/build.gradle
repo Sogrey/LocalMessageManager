@@ -1,6 +1,8 @@
+
 plugins {
     id 'com.android.library'
 }
+group = 'top.sogrey'
 
 android {
     namespace 'top.sogrey.localmessagemanager'
